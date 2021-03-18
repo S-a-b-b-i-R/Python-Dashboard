@@ -4,4 +4,4 @@ The live view can be found here
 >This is free deployment using **_Heroku_**
 > >**[covid-19-dashb0ard]( https://covid-19-dashb0ard.herokuapp.com/)**
 
-![Screenshot](/assets/screenshot-covid-19-dashb0ard-herokuapp-com-1616041608105.png)
+![Screenshot](assets/screenshot-covid-19-dashb0ard-herokuapp-com-1616041608105.png)
